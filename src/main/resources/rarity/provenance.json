@@ -1,0 +1,12 @@
+{
+  "reviewedDate": "2026-11-19",
+  "npcSnapshotCommit": "ae769add57a4a91274c2e3d4ca1c702ec23b13e4",
+  "npcSourceTables": 672,
+  "npcSha256": "90be2210febd973d7e85833f7660117c20639710208c3f25035fc95f112035a8",
+  "thievingSha256": "d3a32bd1e7a8477e0cb9c806a4b4265598d0d8046951a67e939c594eb7715fd0",
+  "uniqueClassificationOriginalCommit": "98d54c918af4fa086db873b6c7231c31a524dac9",
+  "dataLicense": "CC BY-NC-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+  "attribution": "OSRS Wiki contributors; Flipping Utilities; pajlads and Dink contributors; MasterKenth, BossHuso and Discord Rare Drop Notifier contributors",
+  "notes": "Reference data only. Snapshot age is not a guarantee of game-data freshness. See NOTICE.md for transformations, limitations and source links."
+}
