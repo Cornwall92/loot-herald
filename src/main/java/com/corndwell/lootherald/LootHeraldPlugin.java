@@ -52,8 +52,7 @@ import javax.swing.*;
 @PluginDescriptor(
         name = "Loot Herald — for Discord",
         description = "Loot and pet notifications with session history and safe manual posting",
-        tags = {"discord", "loot", "drops", "pets", "raids"},
-        enabledByDefault = false)
+        tags = {"discord", "loot", "drops", "pets", "raids"})
 public class LootHeraldPlugin extends Plugin {
     @Inject private Client client;
     @Inject private ClientThread clientThread;
